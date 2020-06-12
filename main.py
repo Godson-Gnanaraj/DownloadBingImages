@@ -18,7 +18,6 @@ def build_user_agent():
 def get_images(url_file, prefix, start_no):
     fp = open(url_file, "r")
     urls = fp.readlines()
-    build_user_agent()
 
     if not os.path.exists("downloads"):
         os.mkdir("downloads")
@@ -72,4 +71,5 @@ if __name__ == "__main__":
 
     html_file = sys.argv[1]
     get_img_index_links(html_file)
+    build_user_agent()
     get_images("urls.txt", "image", 1)
