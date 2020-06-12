@@ -15,7 +15,7 @@ Downloads Images from bing search
     - Go to bing.com/images
     - Search for required image
     - Copy the html content
-    - Save the html into a file eg: ```sample.html```
+    - Save the html into a file eg: sample.html
   
 ## Note:
   Currently [imgDownloader](https://github.com/Godson-Gnanaraj/imgDownloader) extracts image urls from html file of bing search and downlaods the images into ```./downloads``` directory.
