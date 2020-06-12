@@ -10,7 +10,7 @@ Downloads Images from bing search
   
 #### 3. Run the script
   ```python3 main.py <sample.html>```
-  - ###### html file
+  ###### Steps to generate html file
     - Open your favourite browser.
     - Go to bing.com/images
     - Search for required image
