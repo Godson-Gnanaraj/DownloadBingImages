@@ -13,7 +13,7 @@ Downloads Images from bing search
   
 ###### Steps to generate html file
   - Open your favourite browser.
-  - Go to [bing.com/images]
+  - Go to [bing images](www.bing.com/images)
   - Search for required image
   - Copy the html content
   - Save the html into a file eg: ```sample.html```
